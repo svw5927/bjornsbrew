@@ -4,7 +4,7 @@ Sean Ward | SWENG 837 | Final Project
 ## Includes
 
 ### Software Design Document
-Compiled PDF of All Design Work, UML Diagrams, and Explainations.
+Compiled PDF of All Design Work, UML Diagrams, and Explanations.
 
 ### UML Diagrams
 File Storage of All UML Diagrams Used in in the Software Design Document
